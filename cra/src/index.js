@@ -4,7 +4,8 @@ import './index.css';
 // import App from './App';
 // import App from './App.props'; //  Props 테스트
 // import App from './App.state';  //  State 테스트
-import App from './App.function'; //  함수형 컴포넌트 테스트
+// import App from './App.function'; //  함수형 컴포넌트 테스트
+import App from './App.ref';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
